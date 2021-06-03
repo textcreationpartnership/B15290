@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of the rich man and Lazarus anothomized by way of meditation. With the rich mans funerall sermon. By George Phillips.</title>
+            <author>Phillips, George, fl. 1597.</author>
+         </titleStmt>
+         <extent>Approx. 87KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15290</idno><idno type="EEBO-CITATION">99845987</idno>
+  <idno type="VID">177257</idno>
+  <idno type="EEBO-PROQUEST">2240926347</idno>
+  <idno type="STC">STC 19861</idno>
+  <idno type="STC">ESTC S110447</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99845987e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15290)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177257)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 970:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of the rich man and Lazarus anothomized by way of meditation. With the rich mans funerall sermon. By George Phillips.</title>
+                  <author>Phillips, George, fl. 1597.</author>
+               </titleStmt>
+               <extent>[72] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Edward Allde] for Edward White, and are to be solde at his shop neere vnto the little north doore of Paules at the signe of the Gun,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1600.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-D E⁴.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Rich man and Lazarus (Parable) --  Sermons --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177257:1"/>
+            <p>The life and death <hi>of the rich man and</hi> Lazarus, <hi>Anothomized</hi> by way of Medi<g ref="char:EOLhyphen"/>tation.</p>
+            <p>With the Rich mans Funerall Sermon.</p>
+            <p>By <hi>George Phillips.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Edward White,</hi> and are to be solde at his shop neere vnto the little North doore of Paules at the signe of the Gun. 1600.</p>
+            <pb facs="tcp:177257:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177257:3"/>
+            <head>The life and death of the <hi>Rich man and Lazarus.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <hi>There was a certaine Rich man that was cloathed in Purple, and fine White,
+<note place="margin">Luke. 16.19.</note> and fared deliciously euery day. And there was a certaine begger, named <hi>Lazarus;</hi> that lay at his gate full of sores, desiring to be refreshed with the crumes that fell from his boord, but no man gaue them vnto him: but the dogges came and licked his sores. And it fortuned that the begger dyed, and was carried by the Angels into <hi>Abrahams</hi> bosome, The Rich man also dyed and was buried, and being in hell torments, &amp;c.</hi>
+               </q>
+            </epigraph>
+            <div type="part">
+               <head>Text.</head>
+               <epigraph>
+                  <q>
+                     <hi>There was a certaine Rich man.</hi>
+                  </q>
+               </epigraph>
+               <p>
+                  <seg rend="decorInit">T</seg>He Heathen wisserdes (whose knowledge of the true God,
+<note place="margin">Mark. <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> being as imperfect as that mans sight, which saw men
+<pb facs="tcp:177257:4"/>walke like trees) said that the possessions of this life, are eyther the riches of the minde, or the goods of the body, or the benefits of fortune. But the spirit of truth binding these, and all other blessings to<g ref="char:EOLhyphen"/>gether,
+<note place="margin">Iam. 1.17.</note> saith: that euery good and per<g ref="char:EOLhyphen"/>fect gift commeth downe from the Fa<g ref="char:EOLhyphen"/>ther of lights: teaching vs to know both who is the right owner, and what is the true vse of them, which (as it should seeme by the sequell of this story) is not through ignoraunce obscured, but by negligence forgotten of the gripple penny-fathers of our golde-sicke age, who hauing hazarded their soules to that Lyon the Deuill for goods,
+<note place="margin">Dan. 6.16.</note> as <hi>Da<g ref="char:EOLhyphen"/>niels</hi> body was indaungered to those Lyons for the honour of his God: the vulgar singling out some one of these: O say they; there is a very rich man. <hi>Mo<g ref="char:EOLhyphen"/>bile sic sequitur fortunae lumina vulgus.</hi> And in deed, of all such we may safelie say as this scripture doth: That they are rich, but with that difference of riches which the Apostle taught <hi>Timothy:</hi>
+                  <note place="margin">1. Tim. 6.17.</note> namely with riches of this world. The vnsatiable hungring thereafter, the very Heathen haue mocked, and laughed to
+<pb facs="tcp:177257:4"/>scorne: with such like tauntes as this. <hi>O Ciues, Ciues querenda pecunia primum vir<g ref="char:EOLhyphen"/>tus post nummos.</hi> O Citizens get money first; let vertue come behinde.</p>
+               <p>And in truth who seeth not that they thinke themselues to haue vertue en<g ref="char:EOLhyphen"/>ough, if they possesse money enough? As vnseemely a thing: as when <hi>Hagar</hi> the Hand-mayde would bee aduaunced aboue <hi>Sara</hi> her Mistris.
+<note place="margin">Gen. 16.4.</note>
+               </p>
+               <p>O foolish Galathians,
+<note place="margin">Gal. 3.1.</note> who hath be<g ref="char:EOLhyphen"/>witched you: said the Apostle, and O doting worldlings, how hath gaine in<g ref="char:EOLhyphen"/>chaunted you? that your toyling heere, should bring you also a torment hereaf<g ref="char:EOLhyphen"/>ter? The holy Ghost mentioning that shoure of wealth which was powered vpon <hi>Job,</hi> concludeth:
+<note place="margin">Iob. 1.3.</note> so that hee was one of the Principall men of the East Country. That wee might not consider onely how much hee had, but how well also he vsed that which he possessed. For no man is blessed because he hath much, but he hath much because he is blessed. And you may note this to bee true, by the testimony of God himselfe: who said that <hi>Iob</hi> feared God and eschewed euill,
+<note place="margin">Iob. 1.8.</note> two vertues rarely found in the
+<pb facs="tcp:177257:5"/>rich, but this is true both in rich and poore: that where no feare of GOD went before, there no auoyding of euill commeth after.</p>
+               <p>This is euident in them that couet to bee rich without exception, not regar<g ref="char:EOLhyphen"/>ding eyther from whome they get, or by what right they haue, so they haue. Who say to the wealth of this world, as Saint <hi>Paule</hi> said to the Corinthians.
+<note place="margin">1. Cor. 12.15</note> I will gladly spend, and bee spent for your sakes, who would clawe a muckhill to find a Pearle? who would rip their bro<g ref="char:EOLhyphen"/>thers intrayles for money,
+<note place="margin">Iug. 14.8.</note> as <hi>Sampson</hi> searched the Lyons carkasse for hony, whose whole endeuour is to serue their owne turne onely,
+<note place="margin">Gen. 8.7.</note> like <hi>Noas</hi> Crow: And haue euen solde themselues to do euill, not regarding that they haue done it in the sight of the Lord.
+<note place="margin">1. Kin. 2.20.</note>
+               </p>
+               <p>All that <hi>Iob</hi> hath be in thy hand,
+<note place="margin">Iob. 1.12.</note> said God to Sathan: O if some had so much power ouer their neighbors, how would they dominere ouer them? All that he hath is a large commission: yet this doe many take vpon them at this day, but by what authority? that is the question. A<g ref="char:EOLhyphen"/>gaine,
+<note place="margin">Iob 2.6.</note> vppon himselfe see thou laye not
+<pb facs="tcp:177257:5"/>thine hand, said God to the Deuill: then are not they worse then the Deuill, who not beeing content with all that a man hath in goods, do ceaze on his body too.</p>
+               <p>Be it knowne to you then: that a man in seeking to bee rich may sin greeuous<g ref="char:EOLhyphen"/>ly, in these two Capitall pointes: First, in greedy snatching at what they see, like <hi>Achan</hi> and <hi>Ahab:</hi>
+                  <note place="margin">Iosua. 7.21. 1. Kin. 21.2.</note> Secondly in miserable keeping of that they possesse, as this rich wretch: And both appeare in all such as withhold that by wronge, which others should haue by right.</p>
+               <p>Therefore said the Lord,
+<note place="margin">Luke. 12 15.</note> beware of coueting: beware of it you rich men: for it will cause you to doe wronge,
+<note place="margin">Pro. 28.21.</note> if you may gaine but a peece of bread: beware of it you poore men, for as the wylde Asse is the Lyons pray in the wil<g ref="char:EOLhyphen"/>dernesse,
+<note place="margin">Eccle. 12.20.</note> so is the poore the pray of the rich. It was the saying of a man that had no lesse goodnes then goods: That gaine gotten with credit lost, is a badde bargaine.</p>
+               <p>It is no happinesse to plant your selues heere, and to floorish for a time, for so doe the very damned glister heere for a season, and yet they are no golde, but to
+<pb facs="tcp:177257:6"/>be as the Cedars which God hath plan<g ref="char:EOLhyphen"/>ted,
+<note place="margin">Psa. 112.3.</note> is to be blessed: Riches and plente<g ref="char:EOLhyphen"/>ousnes are in that house. Then if yee will bee rightly rich,
+<note place="margin">1. Cor. 11.23</note> let me aduise you, and what I haue learned of the Lord, that shall I deliuer vnto you.
+<note place="margin">Mat. 6.20.</note> Lay vp treasure for your selues in heauen, by bestowing it so as it may most glorifie your Father which is in heauen; and all this is then done, when you doe good by way of distribution,
+<note place="margin">Heb. 13.16.</note> for with these (as with sa<g ref="char:EOLhyphen"/>crifices) God is pleased. All men doe know that there is enough deliuered out to the great Stewardes, to suffice the whole housholde: but they haue made that which they haue receiued, riches of iniquity; whilst by iniquity they with<g ref="char:EOLhyphen"/>holde that from their brethren, which was deliuered for their brethren, them<g ref="char:EOLhyphen"/>selues being but Stewardes of it,
+<note place="margin">Luk. 16.1.</note> at the most. Why then should not the bloud of the famished crye for vengeaunce more shrill then that of <hi>Abell,</hi>
+                  <note place="margin">Gen. 4.10.</note> seeing hee was but one, but these are many a one?</p>
+               <p>You Serpents; that are wise for your selues: Why be ye not likewise harme<g ref="char:EOLhyphen"/>lesse towardes others, but thus pro<g ref="char:EOLhyphen"/>ceede
+<pb facs="tcp:177257:6"/>in wronging and wringing your watri-faced brethren?
+<note place="margin">Dan 4.27.</note> Breake off your cruelty, as the Spinster doth her threed, intending to drawe it out no lon<g ref="char:EOLhyphen"/>ger.</p>
+               <p>As God Almighty once gathered the Waters together,
+<note place="margin">Gen. 1.9. Psa. 33.7.</note> that the earth might also haue a beeing; so dooth he now restrayne the rich, least (at last) they shoulde ingrosse all.</p>
+               <p>
+                  <hi>Phillip,</hi>
+                  <note place="margin">Phillip of Macedonia.</note> King of <hi>Macedonia</hi> hath left fewe of his minde, that are neere his might: Who on a time lying on the grounde, and perceiuing himselfe to be of a small timbred body: said to his attendauntes: I maruell why wee couet to ingrosse so much of this world, seeing so little of it would serue our turne.</p>
+               <p>And this was found written on the Toombe of <hi>Saladine</hi> in Capitall let<g ref="char:EOLhyphen"/>ters: SALADINE,
+<note place="margin">Saladine King of E<g ref="char:EOLhyphen"/>gipt.</note> SOMTIME KING OF EGIPT, ARABIA AND SIRIA, NOW POSSESSETH ONELY TWO VARDS OF GROVND.</p>
+               <p>Why are not men contented then,
+<note place="margin">2. Cro. 1.15.</note> who haue siluer as plenty as stones, or when <hi>Alexander</hi> like they can command
+<pb facs="tcp:177257:7"/>a world,
+<note place="margin">Ge. 11.4.</note> but like these Gyants, would conquer heauen too.
+<note place="margin">1. Tim. 6.17.</note>
+                  <hi>Deus viuens dedit nobis omnia abunde, ad vtendum.</hi> The ly<g ref="char:EOLhyphen"/>uing God hath giuen vs al things aboun<g ref="char:EOLhyphen"/>dantly to enioy, saith the Apostle. And what would men haue more, except they desire the Deuill and all?
+<note place="margin">Iob. 1.21.</note> Our naked comming into the world, and our thred<g ref="char:EOLhyphen"/>bare going out of it, are preachers to vs of the right vse of these thinges, by the small interest we haue in them.
+<note place="margin">Ioh. 9.6.</note> And yet you see, that as the Lord with clay dyd once open the eyes of the blinde, so the Deuill and the world with clay, do close vppe the sight of the seeing: a manifest signe that this clay maketh the blessing which that had. I haue seene men wipe their eyes with golde, saying that it was very soueraigne for the sight: but a wise man said,
+<note place="margin">Eccle. 14.9.</note> he that will be rich all to soone hath an ill eye, as though hee thought golde to be as infectious to the sight, as sinne is to the soule.
+<note place="margin">Ios. 7 14.</note> Such an eye had <hi>A<g ref="char:EOLhyphen"/>can;</hi> that seeing the golde at <hi>Jerico:</hi> it caused his heart to couet it, and his hand to take it.</p>
+               <p>By which place it may safely bee ga<g ref="char:EOLhyphen"/>thered, that all-hauing worldlings, make
+<pb facs="tcp:177257:7"/>onely three steps to bee wealthy. 1. A wicked eye to finde out a commoditie. 2. A bottomles heart to desire it. 3. And a sixe-fingered hand to ceaze on it.
+<note place="margin">2. Sa. 21.20.</note> Such men oftentimes come by that they haue as honestly as <hi>Acan</hi> gat the gold which he hidde in his Tent,
+<note place="margin">Ios. 7.21.</note> who called stealing but taking, and by his hyding of it, men may gesse how honestly hee had gotten it. And true it is of all the couetous: that they steale and hyde too like <hi>Acan</hi> the sonne of <hi>Carmy.</hi>
+               </p>
+               <p>And if they had no more steps to go vp to their lofty Towers, then to the get<g ref="char:EOLhyphen"/>ting of them, they would come downe like <hi>Ahazia,</hi> when hee fell through his Lattice window in his vpper Chamber at <hi>Samaria.</hi>
+                  <note place="margin">2. Ki, 1.2.</note>
+                  <hi>Saul</hi> in all his proceedinges shewed himselfe a wise Politician; but when hee sinned against God grossy:
+<note place="margin">1. Sa. 13.13.</note>
+                  <hi>Samuell</hi> telleth him that he was become a foole in so doing. And so is the wisest man if hee suffereth the thinges of this world to deceiue his heart. Haue I said to the wedge of golde thou art my confi<g ref="char:EOLhyphen"/>dence?
+<note place="margin">Iob. 31.24.</note> or reioyced because my portion was made great? said <hi>Iob.</hi> Yet now: what Eagle resorteth not to that Carkasse, and
+<pb facs="tcp:177257:8"/>whose chist holdeth not both the money and the Master too? So true is that of our Sauiour: where the treasure is, there will the heart be also.
+<note place="margin">Luke. 12.34.</note> The Lord reproo<g ref="char:EOLhyphen"/>uing the sinne that <hi>Dauid</hi> committed with the wife of <hi>Vria:</hi>
+                  <note place="margin">2. Sam. 12.8.</note> saith, I gaue thee thy Masters house, and his wiues into thy bosome, and the houses of <hi>Iuda,</hi> and <hi>Jsraell.</hi> And might (if that had been too little) haue giuen thee so much more. Teaching all men to vse no vnlawfull meanes to get what they desire, but to sue for it at the handes of that bountifull giuer, who multiply his blessinges vpon his children,
+<note place="margin">2. Kin. 2.12.</note> as hee did double his spirit vpon <hi>Elizeus.</hi> And yet as a net is full of birds,
+<note place="margin">Ier. 5.27.</note> so are many mens houses reple<g ref="char:EOLhyphen"/>nished with wealth, so gotten as Foulers get birds, and that is by deceiuing men craftily.</p>
+               <p>The Scriptures doe compare the worlds getting of wealth to hunting: as when the Prophet saith:
+<note place="margin">Psal. 57.7.</note>
+                  <hi>Euery man hun<g ref="char:EOLhyphen"/>teth his brother with a net:</hi> &amp; in hunting euery practise tendeth to the ruine of the hunted. Therfore there be dogges, Gins, and nets, but as it is gotten so thriueth it: for the wicked man shall not roast
+<pb facs="tcp:177257:8"/>that which he hath gotten in hunting, so small a time shall it remaine with him, and so little comfort shall he haue of it. <hi>De male quesitis, non gaudet tertius heres.</hi> Yet it is as truely said of the Vsurer as of the Hunter: that <hi>sequitur fugientia, capta relinquit,</hi> he pursueth that which would escape him, for what hee hath is sure enough. And as we vsually speake of such as run away. <hi>Caelum, non animum, mutant:</hi> They doe but change the Cli<g ref="char:EOLhyphen"/>mate, not their conditions:
+<note place="margin">Esay. 58.4.</note> so saith <hi>Esay</hi> of Vsurers and oppressors: you doe no lesse violence after your fasting and pray<g ref="char:EOLhyphen"/>ing then you did before them.</p>
+               <p>There was sometime dwelling in this Citty a very poore man, who be<g ref="char:EOLhyphen"/>ing desirous to beginne the world: had (as then hee said) but one face more then a sheepe hath; but at the last hee found a friend worth eyght poundes to him. Whereof him selfe did be<g ref="char:EOLhyphen"/>stowe, in fine Lynnen, fiue poundes, and his Wife in Cruels, three poundes, which in short time by retale yeelded him a noble in the pound for his Linnen. And his Wiues commodity return'd her foure shillings in the pound. But hee did
+<pb facs="tcp:177257:9"/>not thinke that to bee sufficient gayne. Wherefore he tooke both his commo<g ref="char:EOLhyphen"/>dities into his owne handes, and was like him that went to hell: fine and cru<g ref="char:EOLhyphen"/>ell, and in short time becommeth very rych, (for Thistels grow fast) and by this tyme sendes his sonne to the Vniuersity, who well Tutored, soone grewe rype, and being called to Paules Crosse, (lyke the gracious chylde of a gracelesse Fa<g ref="char:EOLhyphen"/>ther) Clarkelike, enuyed against damna<g ref="char:EOLhyphen"/>ble vsury, his Fathers professed occupa<g ref="char:EOLhyphen"/>tion.</p>
+               <p>And when such newes were carryed to his Father (whome to haue seene at a Sermon had been greater newes) his Fa<g ref="char:EOLhyphen"/>ther replyed: I cannot iustly blame my Sonne for that he hath done, for it is as<g ref="char:EOLhyphen"/>well his profession, to speake against v<g ref="char:EOLhyphen"/>sury, as it is my occupation to follow it, otherwise hee might want matter to speake on, and both my selfe and my Son might lacke money to liue on: proceed therefore my Sonne, quoth this goldfin<g ref="char:EOLhyphen"/>der, and see you spare not to inuent damning arguments against such as liue by loane, and I hope that in time this wil become my trade alone.</p>
+               <pb facs="tcp:177257:9"/>
+               <p>There be many thinges in the workes of God,
+<note place="margin">The vse of this.</note> whose effects onely are knowne to vs, but the causes bee hidden from vs, as in this: That one is made rich, and another left poore: Wee know what is done heerein, but we know not why it is so done. There may be some coniectures made of the matter, but suppositions are no sound proofes: and yet may wee not thinke Gods works to be vniust, because they are vnknowne to vs. For if wee will haue patience vntill the labourers are called, we shall see that God will dely<g ref="char:EOLhyphen"/>uer the penny equally to vs all. And in<g ref="char:EOLhyphen"/>deed if euery man may doe what he list with his owne: much more will God deale how he will, with whom hee will. And what know we, whether the plenty which the rich haue heere, be firebrands, which God (in his wrath) hath cast at them? but if they are blessinges,
+<note place="margin">Mat. 20.15.</note> let no mans eye bee euill because GOD is good.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:177257:10"/>
+               <head>Text.</head>
+               <epigraph>
+                  <q>
+                     <hi>That was clothed in Purple and fine White.</hi>
+                  </q>
+               </epigraph>
+               <p>IT is true (by warrant of holy writ) that if any may pleade state by their appa<g ref="char:EOLhyphen"/>rell, the rich may doe it,
+<note place="margin">Mat. 11.8.</note> for when our Sauiour said, that such as weare silken rayments are in Kings Courts, hee ment their attyre was befitting their state, and teacheth vs that such garments doe best become our person, as most agree with our calling. And that all thinges should be ordered after his pleasure that taught vs to pray:
+<note place="margin">Luk. 11.2. Iam. 2.2.</note>
+                  <hi>Thy will be done.</hi> Saint <hi>Iames,</hi> vnder the names of a silken cote, and vile rayment, vnderstandeth a difference be<g ref="char:EOLhyphen"/>twixt the rich and the poore, while they soiourne heere on earth. As if he should say:
+<note place="margin">Mat. 6.19.</note> The rich Moth-feeders &amp; Canker<g ref="char:EOLhyphen"/>breeders, doe vse to shewe their pompe by their apparell, their hearts are as full of pride, as their bagges are of gold, and they will haue the world to knowe it too.</p>
+               <p>Therefore said <hi>Paul</hi> to <hi>Timothie:</hi>
+                  <note place="margin">1. Tim. 6.17.</note>
+                  <pb facs="tcp:177257:10"/>Charge them that are rich, that they be not high minded, and that they trust not in vncertaine riches. Two sinnes was the rich sort infected withall especially; With a vaine confidence in vaine riches, which the Apostle saith, none ought to put any trust in, because they are vncertaine: the Thames doth both ebbe and flowe in foure and twenty houres without faile, but no man can tel when a Bank-rout shall flowe, if hee be at an ebbe: Again, the Thames hath ne<g ref="char:EOLhyphen"/>uer so low a fall, but it hath as high a flood: but if a rich man fall, his floode is sildome recouered to the full. Therefore rich men haue no reason to bee high minded because of their wealth, yet it is as proper to wealth as to witte, to puffe vppe fleshe and blood, with the blaste of vaine-glory. Yea, so high doth the mind of the mighty lift vp their lookes, that they looke quite ouer the poore, and ne<g ref="char:EOLhyphen"/>uer see them or not regard them (at the least:) and as the wickednesse of all the wealthy is for the most part Capitall, so the sinne of Citizens, are lofty sinnes e<g ref="char:EOLhyphen"/>specially.
+<note place="margin">Esay. 26.5.</note> Wherefore God called them
+<pb facs="tcp:177257:11"/>high-minded Citizens.
+<note place="margin">Esai. 26.5. Psa. 132.1.</note> Lord I am not high-minded, I haue no proude lookes said the Psalmist, as if hee would haue said an high minde is discernable by a proude countinaunce, or the counte<g ref="char:EOLhyphen"/>naunce is the Callender of the minde. And so ment <hi>Esay</hi> when hee said of the impudent sinners,
+<note place="margin">Esai. 3.39.</note> their countenaunce bewrayeth them, &amp;c. Your religion ly<g ref="char:EOLhyphen"/>eth in your mouthes, for the most part; and your wealth in your heartes: Like those whome the holy Ghost pointing out to <hi>Ezekiell,</hi>
+                  <note place="margin">Eze. 33.31.</note> said: Sonne of man they speake well of thee, but their harts, runneth after their couetousnesse. Or as <hi>Ieremie</hi> saith of the people in his time,
+<note place="margin">Ierimie. 5.2.</note> that they did acknowledge that the Lord liueth, but yet would sweare to deceiue: <hi>Ostentant pietatem, non osten<g ref="char:EOLhyphen"/>dunt pietatem.</hi> They will talke of God<g ref="char:EOLhyphen"/>lynes as much as any, but they walke in goodnes as little as any, for the empty caske maketh more rumbling then the full. Yea it is as true of them as of Rome: that, <hi>Religio peperit diuitias et filia deuora<g ref="char:EOLhyphen"/>u<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t matrem:</hi> the blessing of the Gospell hath made them wealthy, and the
+<pb facs="tcp:177257:11"/>Daughter hath deuoured the mother. And nowe wealth hath begotten that drunken sinne of pride, which all the Props in the world are too weake to support.</p>
+               <p>As you see in the Prophesie of <hi>Esay,</hi>
+                  <note place="margin">Esai. 3.16. 2. Sa. 14.26.</note> and much like is it to <hi>Absolons</hi> hayre, that was too heauie for his head, vntill at last his head was too heauy for his body too,
+<note place="margin">2. Sam. 18.9.</note> which teacheth that people infected with pride are neuer weary of it, vntill it be weary of them:
+<note place="margin">2. Ki. 9.30.33 2. Sam. 18.9.</note>
+                  <hi>Iessabel</hi> dyed with a painted face, and <hi>Absalon</hi> in his long haire.</p>
+               <p>So God was as good as his word, that he once spake by his Prophet <hi>So<g ref="char:EOLhyphen"/>phonie:</hi>
+                  <note place="margin">Cap. 1.8.</note> I will visite the Princes and the Kings children, and all that attire them<g ref="char:EOLhyphen"/>selues strangely. By the word, Visit: God meaneth that such are growne out of order, for visitation tendeth to refor<g ref="char:EOLhyphen"/>mation. Now as this &amp; al other scriptures like to this do teach, that God will not endure these abuses, so knowe you, that too much trimming of the out<g ref="char:EOLhyphen"/>warde man, is a manifest token, that the inwarde man is abridged of his
+<pb facs="tcp:177257:12"/>inward grace. And this principle being as true in diuinity as in humanity, that the variety of thinges argueth the verye vanity of them, inferreth by a necessary consequent, that much variety of appa<g ref="char:EOLhyphen"/>rell, is proofe enough of a minde surfey<g ref="char:EOLhyphen"/>ted with vanity. We cannot immagine any man or woman to bee so banckrout of sence, but if they be not honest indeed, yet they would bee accounted so at the least: sith then our apparell, and other outward demeanor calleth our life into question, euen in pollicy it were good, to beware what garments we weare, but specially because religiō wil iudge vs, for who wil say they are mortified inwardly to God, which liue a loose life in the face of the world? <hi>Ornamentum est quod or<g ref="char:EOLhyphen"/>nat, or nat autem quod honestat:</hi> An Orna<g ref="char:EOLhyphen"/>ment is that which becommeth vs, and that becommeth vs which wee may weare with honestie, saith one. It were good then, that such as care not for chri<g ref="char:EOLhyphen"/>stianity, would suite themselues with modesty, and not giue the world occasi<g ref="char:EOLhyphen"/>on to thinke that they liue, onely to liue vnhonestly: this sinne of pride consisteth
+<pb facs="tcp:177257:12"/>either in strangenes of fashiō, like the Ba<g ref="char:EOLhyphen"/>bilonish garment which <hi>Acan</hi> conuey<g ref="char:EOLhyphen"/>ed, or in superfluity of matter, as when they lay on cost, like <hi>Iulia,</hi> that would not forget that shee was the Emperours daughter, though her father (as she said) forgat that he was the Emperour: or as our superfluous Dames that thinke they bee best regarded, whose Gownes are most garded: or like the bouncing bree<g ref="char:EOLhyphen"/>ched Gentles, that make garmentes (as <hi>Assuerus</hi> made his feast,)
+<note place="margin">Hest. 1.4.</note> to shew theyr ability: but, <hi>ad quid deliciae vestrae:</hi> to what vse serue all your vanities? Euery man seeth saue they that eyther will not see, or dare say nothing if they see, be<g ref="char:EOLhyphen"/>cause <hi>Assuerus</hi> decree is of no force in their houses:
+<note place="margin">Hest. 1.22.</note> the husband is many times constrained to looke out of his house, as an Owle out of a bush; daring onely see, but not bee seene; Such women <hi>Esay</hi> cheeketh, with:
+<note place="margin">Esay. 32.9.</note> Vp you rich and idle women, for they will not worke vntill they haue brought their husbandes from plenty to beggery: faire burdens are they, not cracking the backe, but quite breaking the necke of their husbandes
+<pb facs="tcp:177257:13"/>credit, <hi>de albatasepulcra,</hi> goodly graues to burie all their husbands wealth in.</p>
+            </div>
+            <div type="part">
+               <head>Text.</head>
+               <epigraph>
+                  <q>
+                     <hi>And fared verie deliciouslie euerie day.</hi>
+                  </q>
+               </epigraph>
+               <p>It is a great blessing of God to haue meate and drinke at all, and it is a grea<g ref="char:EOLhyphen"/>ter blessing to haue it of the best, but to haue it euery daie, is to be blessed in the suparlatiue degree.</p>
+               <p>And yet I do not so cal these blessings, as if I thought all men blessed, that liue in aboundance: for there are men that haue goods, and not the grace how to vse them:
+<note place="margin">Eccle. 4.8.</note> such a mans wealth is good in re<g ref="char:EOLhyphen"/>spect of the giuer, but ill in respect of the receiuer, goods they are because they fare well by them, but euils, because their plenty relieueth not others pouerty; For when men fare well, they should remem<g ref="char:EOLhyphen"/>ber them that fare ill: As <hi>Nehemia</hi> said at the feast of Tabernacles. God is ne<g ref="char:EOLhyphen"/>uer more dishonored then in that time of merriment, as if you looke with the
+<pb facs="tcp:177257:13"/>spectacles of discretion,
+<note place="margin">Eze. 16.49. Iob. 1.5.</note> you may see in those sinnes of <hi>Sodom.</hi> Therefore <hi>Iob</hi> had reason to respect (as he said he did) that his Sonnes had dishonored God in their feastes. Whē did you euer heare of a greater Eclipse to the honor of God then at the Reuels on <hi>Herods</hi> birth day?
+<note place="margin">Mat. 14.16.</note> You knowe howe good a man lost his head at that feast. Goe to then, you that fare deliciouslie euery day, you that haue that which is both dainty and plentie, feeding on the quintessence of Gods giftes; You whose tongue doth taste of whatsoeuer it can talke off; You that thinke you are borne onely to go gailie, and feed finely; You that fare the better for all thinges, and yet nothing fa<g ref="char:EOLhyphen"/>reth the better for you.
+<note place="margin">2. Kin. 2.15.</note> As the chil<g ref="char:EOLhyphen"/>dren of the Prophets applauded <hi>Eli<g ref="char:EOLhyphen"/>sha</hi> for his goodnesse, so all condemne you for your exceeding badnesse: And as the poore in <hi>Jobs</hi> time blessed him for his bounty,
+<note place="margin">Iob. 31.20.</note> so the needy of our age curse you for your cruelty, and that iustly too, seeing you are without all excuse, for doing good.
+<note place="margin">2. Sam. 25.8.</note> For could a man come to <hi>Naball</hi> in a fitter time then at his
+<pb facs="tcp:177257:14"/>Sheep shering? or to a meeter man then such a one, as hath for euery day in the weeke a seuerall suite, and for Sunday two? or that feedeth on dainties e<g ref="char:EOLhyphen"/>uery daye? I cannot see saith Saint <hi>Iames,</hi>
+                  <note place="margin">Ia. 2.15.16.</note> how these men can (with a quiet conscience) goe gorgiously, fare dainti<g ref="char:EOLhyphen"/>ly, and talke religiouslie, and yet answere Iesus Christ in his members, with God send you meate and warmth. Make your selues garmentes of God send you cloth, and see if they will keep you warme: or sit downe to dinner with your Table full of God send you meate, and looke if you shall not rise, as hungry as you sat down? seeing then, the rich are not described by what they haue not; but by that they haue, such as answere the needy with, I haue not for you, they send God word they loue him not,
+<note place="margin">2. Sa. 25.10.</note> as <hi>Naball</hi> did to <hi>Da<g ref="char:EOLhyphen"/>uid,</hi> that he knew him not. If there bee first a willing minde,
+<note place="margin">2. Cor. 8.12.</note> it is accepted ac<g ref="char:EOLhyphen"/>cording to that a man hath, and not ac<g ref="char:EOLhyphen"/>cording to that he hath not, saith the A<g ref="char:EOLhyphen"/>postle: but if a man hath this worldes goods,
+<note place="margin">1. Ioh. 3.17.</note> and seeing his brother want, shut<g ref="char:EOLhyphen"/>teth his compassion from him: howe
+<pb facs="tcp:177257:14"/>dwelleth the loue of God in him saith S. <hi>Iohn.</hi>
+               </p>
+               <p>Our Sauiour accompteth that done to himselfe,
+<note place="margin">Mat. 25.40.</note> which is done to poore Christi<g ref="char:EOLhyphen"/>ans, as men acknowledge themselues sa<g ref="char:EOLhyphen"/>tisfied, when money is paide to their ser<g ref="char:EOLhyphen"/>uantes, for their vse. And in commaund<g ref="char:EOLhyphen"/>ing that hee which hath twoo coates,
+<note place="margin">Luk. 3.11.</note> should bestowe one vpon him that hath none: hee ment that no estates should keepe to themselues, more then they need, and that all degrees should be fur<g ref="char:EOLhyphen"/>nished with so much as they lacke, and as Christianity mooueth all men to giue willingly,
+<note place="margin">2. Cor. 9.7.</note> for God loueth a chearefull giuer: so duety commaundeth the nee<g ref="char:EOLhyphen"/>dy to receiue thankfully, contrary to the nine,
+<note place="margin">Luk. 17.18.</note> which were deliuered from theyr Leprosie.</p>
+               <p>When <hi>Sampson</hi> had taken houny out of the Lyons Carkasse he said out of the eater commeth meate,
+<note place="margin">Iudg. 4.14.</note> but from our ea<g ref="char:EOLhyphen"/>ters commeth no meate,
+<note place="margin">1. Cor. 15.32</note> but they make themselues merry with, let vs eate and drinke, for to morrow we shall dye;
+<note place="margin">Iob. 1.4.</note> They haue gotten the tricke of <hi>Iobs</hi> children to feast their own, and to banquet none,
+<pb facs="tcp:177257:15"/>but such as doe feast them againe: and so these Capon-eaters make their bellies as graues, to bury the bodies, of beastes, foules and fishes. They care not who fast,
+<note place="margin">Philoxenus.</note> so they may feaste, wishing (like <hi>Philoxenus</hi>) that they had neckes as long as Cranes, that they might long taste their sweet meates in going downe.</p>
+            </div>
+            <div type="part">
+               <head>Text.</head>
+               <epigraph>
+                  <q>
+                     <hi>And there was a certaine begger named</hi> Lazarus, <hi>which lay at his gate full of sores, desiring to be refreshed, with the crummes that fell from his boord, but no man gaue them him.</hi>
+                  </q>
+               </epigraph>
+               <p>YOu know, he that giueth all thinges once,
+<note place="margin">Ioh. 4.7.</note> craued a draught of water, not for that he needeth vs, but for that often<g ref="char:EOLhyphen"/>times he trieth vs, neither doth he try vs, as being ignoraunt of our affections, but because he would manifest to vs our manifolde infections: and now ye haue as great vse of the poore, as they haue
+<pb facs="tcp:177257:15"/>of you, therefore the Lorde vttered these two Scriptures.
+<note place="margin">Mar. 14.7. Luk. 16.9.</note>
+                  <hi>The poore you shall haue alwaies with you:</hi> and, <hi>Make you friends of the riches of iniquitie.</hi> Teaching vs howe to conceaue of the poore on earth, who shall receiue vs into heauen: <hi>That they may receiue you into euerlasting habitations when you shall haue need.</hi> And our Sauiour was borne as poore as wee, that he might make vs as rich as he; then let not plenty reuile, but relieue pouer<g ref="char:EOLhyphen"/>ty, as the state wherein our highest Lord was born, for so meaneth the holy ghost, that guest of all good mindes; though the gracelesse sort of our age, do measure mens worthinesse, by their wealthinesse, and saye that the needye people are naughtie ones: but if that were so, the Sonne of man, not hauing wher<g ref="char:EOLhyphen"/>on to reste his heade, fasting long, and beeing tempted of the Deuill and all, should bee as bad, as hee was poore.</p>
+               <p>I neuer knewe you saith hee,
+<note place="margin">Ma. 7.23.</note> to them that knewe not the poore, and deli<g ref="char:EOLhyphen"/>uering the wounded man to the Inne<g ref="char:EOLhyphen"/>keeper, hee gaue him money and this
+<pb facs="tcp:177257:16"/>charge withall: <hi>Cura hunc,</hi> take care of him.
+<note place="margin">Luk. 10.35.</note>
+               </p>
+               <p>Now as their need is exceeding great, so should their reliefe be very much. <hi>La<g ref="char:EOLhyphen"/>zarus</hi> is called a begger, you are called rich men, heere is as much contrariety as may be: very pouerty in the one, and ve<g ref="char:EOLhyphen"/>ry plenty in the other: then as the Che<g ref="char:EOLhyphen"/>rubins ouer the mercy seate, were like one to another, so are the riche and the poore:
+<note place="margin">Gen. 1.26.</note> both resembling the image of God; in respect of your seuerall dueties, your poore bretheren are as the Arke, you as the Cherubins,
+<note place="margin">1. Ki. 8.7.</note> vnder whose wings of mercy they should bee shrow<g ref="char:EOLhyphen"/>ded: but in regard of their present state, they are more like to <hi>Daniell,</hi>
+                  <note place="margin">Dan. 6.16.</note> when hee laye at the mercy of the hungry Ly<g ref="char:EOLhyphen"/>ons.</p>
+               <p>My Father worketh hitherto,
+<note place="margin">Ioh. 5.17.</note> and I worke saith our Lord, for though they rested from creating, yet they cease not from blessing, doing good to the crea<g ref="char:EOLhyphen"/>tures; So should you omitte no time wherein, or occasion whereby you may helpe such as haue need of you, that the poore may say of you for your well do<g ref="char:EOLhyphen"/>ing,
+<pb facs="tcp:177257:16"/>as the Licaonians said of <hi>Paul</hi> and <hi>Barnabas,</hi> for their heauenly speaking,
+<note place="margin">Actes. 14.12.</note> the Gods are come downe to vs in the shape of men; for men come neerest vn<g ref="char:EOLhyphen"/>to God in shewing mercy one to ano<g ref="char:EOLhyphen"/>ther.
+<note place="margin">Esay. 42.3.</note> It is some charitie not to breake a bruised Reede, but to binde it vp is much mercy.</p>
+            </div>
+            <div type="part">
+               <head>Text.</head>
+               <epigraph>
+                  <q>
+                     <hi>Named Lazarus.</hi>
+                  </q>
+               </epigraph>
+               <p>THat this poore man is named in the Scripture, &amp; the rich man hath no name therein, but is spoken off by the holy Ghost, as men discribe strangers by circumstances: it firmely noteth, the truth of Saint <hi>Iohns</hi> Prophesie, who saith that as many as had not their names written in the book of Life,
+<note place="margin">Apoc. 20.15</note> were cast in<g ref="char:EOLhyphen"/>to the Lake of fire. Againe, it noteth in what case or state of liuing they are, to whome we must doe good, namely to <hi>Lazers;</hi> or the housholde of pouertie: and therefore this needy brother is de<g ref="char:EOLhyphen"/>scribed by such accidentes as are inci<g ref="char:EOLhyphen"/>dent
+<pb facs="tcp:177257:17"/>to pouerty, and doe rightly Anno<g ref="char:EOLhyphen"/>thomize a man in miserie: As that hee laye at the gate, not beeing able to stand.</p>
+               <p>Such were the Cripples of whome Saint <hi>John</hi> saith,
+<note place="margin">Ioh. 5.3.</note> that they did lye wayting for the moouing of the wa<g ref="char:EOLhyphen"/>ter of the Poole <hi>Bethesda,</hi> and that Lame man, whome GOD by <hi>Peter</hi> and <hi>John</hi> did heale,
+<note place="margin">Act. 3.6.</note> was brought by others, and layed at the Temples beautifull Gate: all such doe shewe their impotency, by couching on the ground. It is duety to doe good to all men, but it is both duety and mercy to relieue men in miserie.</p>
+               <p>Heere then, is one sort of poore whom we must sustaine: such as haue no means to get their liuing according to Gods ordinaunce. Therefore this <hi>Lazer</hi> beg<g ref="char:EOLhyphen"/>ged for almes,
+<note place="margin">Act. 3.6.</note> and hee at <hi>Ierusalem</hi> was layde at the Gate of purpose to aske almes of such as passed by him and such a one was <hi>Bartimeus</hi> that begged by the way side and many moe. There is also a sort of poore that doe worke, but their labour is not sufficient to re<g ref="char:EOLhyphen"/>lieue
+<pb facs="tcp:177257:17"/>them, eyther by reason of the hardnesse of mens heartes, who make them performe too much woorke for too little money, or else because life-stealing age, hath taken away the wonted nimblenesse of their fingers, and agillity of the bodye. Such the Scripture saith are strucken in age,
+<note place="margin">1. Kin. 1.1.</note> and when age striketh, the people bende, as they that seeke where they may lye downe and rest.
+<note place="margin">1. Cor. 16.</note> Such Saint <hi>Paule</hi> spake off when hee wrote to the Co<g ref="char:EOLhyphen"/>rinthians about a Collection for their better maintenaunce, for such as cannot liue of their owne labour, ought to bee maytained by the common pursse: As the Lacedemonians had a custome, that the very oxen which had laboured for them vntill for very age they were not able to worke any longer, should with<g ref="char:EOLhyphen"/>out molestation feede in any mans pa<g ref="char:EOLhyphen"/>sture.</p>
+               <p>And another sort of poore there are, which like the Prodigall childe,
+<note place="margin">Luk. 15.13.</note> once thought their bagge had no bottom, but when they found a bottom, they percei<g ref="char:EOLhyphen"/>ued also that it is too late to spare in the
+<pb facs="tcp:177257:18"/>bottome. These may wel complaine but hardly be heard, for though their case be pittifull poore, yet the cause of it was pit<g ref="char:EOLhyphen"/>tilesse prodigallity: and who will be<g ref="char:EOLhyphen"/>mone his case whose cause is naught? That wise of the sonne of the Ptophet, which intreated assistance of <hi>Elisha,</hi>
+                  <note place="margin">2. King. 4.1.</note> after the death of her husband, alleadged that though he dyed in debt yet he feared the Lord, and that (as shee said) <hi>Elisha</hi> did know: whereby it might appeare that he ran not into debt by vnlawful meanes nor spent what he borrowed in riotous company: for if it had been so, <hi>Elisha</hi> had been able to reprooue her, and it is not vnlike but that hee would haue so done, but they that foster such as care not how they get, nor how they spend; they maintaine pouerty, but not the poore. There is yet an other sort of poore, who as they neede exceedingly, so will they take extreame courses to supply their want, these without blush<g ref="char:EOLhyphen"/>ing say:
+<note place="margin">Luk. 16.3.</note> to begge, I am not so base mind<g ref="char:EOLhyphen"/>ed, and digge I cannot, these are they that steale and be hanged.</p>
+               <p>We vsually say there be two kindes of
+<pb facs="tcp:177257:18"/>enough, and so is the saying of <hi>Salamon,</hi>
+                  <note place="margin">Pro. 28.19.</note> he that tilleth his ground shal haue plen<g ref="char:EOLhyphen"/>ty of bread, but he that followeth idle<g ref="char:EOLhyphen"/>nes shall haue pouerty enough: Among the auncient Romaines, no man might walke the streetes without some instru<g ref="char:EOLhyphen"/>ment: that signified, by what trade hee got his liuing: and in <hi>Indea</hi> at this day euery man is examined what hee hath earned before he is suffered to eate. Our idle ones should take example by God himself, who wrought first,
+<note place="margin">Exo. 20.21.</note> &amp; then rest<g ref="char:EOLhyphen"/>ed: yea he wrought sixe daies, and rest<g ref="char:EOLhyphen"/>ed the seauenth; so were it meete that they should worke more, and rest lesse: and doubtlesse our Sauiour in saying to the Diciples not onely rest,
+<note place="margin">Mar. 6.31.</note> but rest a while: meant to teach men to measure their ease aswell as their paines: the very Angels haue no idle allowance, but are as they bee named ministring spirits, and seeing the greatest states both in heauen and in earth, haue the heauiest burdens:
+<note place="margin">Heb. 1.14.</note> no maruell if the Scripture condemneth them that lend not a finger to ease o<g ref="char:EOLhyphen"/>ther.</p>
+               <p>If that law were in execution, hee that
+<pb facs="tcp:177257:19"/>will not labour let him not eate:
+<note place="margin">2. The. 3.10.</note> I war<g ref="char:EOLhyphen"/>rant you more would dye of idlenesse then of sicknesse. I am of his minde that was of my name, and said sometimes there is not a more vnnaturall thing then to suffer these Catterpillers to gnaw on the common wealthes fruite, by whome it neuer receiued fruite. One argument more of this mans impoten<g ref="char:EOLhyphen"/>cy, is that he was full of sores: there are a Pocky company that are sore at this day: but it is very like,
+<note place="margin">Iob. 2.7.</note> that this man had his sores sent (as <hi>Job.</hi> were) for tryall of his patience, and to exercise others pitty towards him, for the diseased haue most neede to be eased: as our Saui<g ref="char:EOLhyphen"/>ours manifolde examples doe signifie, which hee partly shewed on the wo<g ref="char:EOLhyphen"/>man with the bloudy issue:
+<note place="margin">Mat 9.22. J<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. 4.39. Mar 7.35. Mat. 8.13. Mat. 9.7. Mat. 17.8.</note> on the man deafe and dombe; on <hi>Peters</hi> mother in Law; the Senturions seruant; the man taken with a Palsie; the Lunaticke, and the like: and if men will not helpe them, the very dogges will doe what lyeth in them, before they shall want all com<g ref="char:EOLhyphen"/>fort.</p>
+               <p>It is proper to dogges to wound, but
+<pb facs="tcp:177257:19"/>heere vnkindnesse woundeth, and dogs giue plaisters; Iudge then, whether <hi>Di<g ref="char:EOLhyphen"/>ues</hi> or his dogges, were more dogged. And to leaue this miser without all ex<g ref="char:EOLhyphen"/>cuse, his poore man is said, to craue the crummes, lying at his gate, so that in comming foorth he must needs see him; and considering what hee asked, could not with any colour deny him. What poore man euer lay at my gare, and perished for want of reliefe, through my default (said <hi>Iob?</hi>) but if our rich men should aske this question,
+<note place="margin">Iob. 31.21.</note> it would bee aunswered euery day to their end<g ref="char:EOLhyphen"/>les shame.</p>
+               <p>For as Christ passing by the way from <hi>Jerico,</hi> sawe two blinde men: so our able men, seeing such, passe by them apace.
+<note place="margin">1. Sa. 11.</note>
+                  <hi>Nahash</hi> hath gotten their right eyes that they cannot see such, Sathan standeth at their right hand,
+<note place="margin">Psa. 99.5.</note> therefore they can doe no good to a<g ref="char:EOLhyphen"/>ny. God saith, aske and you shall haue,
+<note place="margin">Mat. 7.7.</note> putting vs in minde of our best state, while we are heere on earth, for al are in respect of God, as the poore are in com<g ref="char:EOLhyphen"/>parison of the rich, for the proudest
+<pb facs="tcp:177257:20"/>are faine to say to God, giue vs this day our daily bread,
+<note place="margin">Lu. 11.3.</note> as the poore hum<g ref="char:EOLhyphen"/>bleth himselfe to the rich, when he wold haue aught:
+<note place="margin">1. Cor. 4.4.</note>
+                  <hi>Quid enim habent quod non acceperunt:</hi> and it is the greatest motiue to make vs shew mercy to other, if wee consider that both wee haue had, and looke to receiue mercy our selues from other.</p>
+               <p>Now seeing <hi>Lazarus</hi> beggeth but the crummes, and yet obtaineth not, it a<g ref="char:EOLhyphen"/>grauateth this mans sinne like an Orator: for if such a fellowe as cogging <hi>Gehesy,</hi> craueth a double gift,
+<note place="margin">2. Ki. 5.23.</note> hee is answered, take (with all my heart) what will serue your turne; so cunningly can rich men serue their owne turne, vnder a colour of seruing yours: Yee see what a vaine man will doe in his humour,
+<note place="margin">Mar. 6.23.</note>
+                  <hi>Herod</hi> will giue halfe his Kingdome for a daunce: the rich man will do any thing to please himself, but he wil do nothing to please God. Loe hee will not pleasure a poore man with his poore crummes, for it is said that no man gaue them vnto him: it seemeth that the seruants were like the Master: and no marueil, for an irre<g ref="char:EOLhyphen"/>ligious
+<pb facs="tcp:177257:20"/>master often maketh an vngodlie seruant: and a wretched husband a mi<g ref="char:EOLhyphen"/>serable wife: But it is not alwaies so, for cruell <hi>Ahab,</hi>
+                  <note place="margin">1. Kin. 18.3.</note> had good <hi>O badia</hi> to his Steward, and hoggish <hi>Naball,</hi> had kinde <hi>Abigall</hi> to wife.
+<note place="margin">1. Sa. 25.18. 1. Kin. 18.4.</note> While <hi>Iesabell</hi> plagued the Prophets, <hi>Obadia</hi> cherisheth them. But now, where most is, nothing com<g ref="char:EOLhyphen"/>meth to the poore mans lot. Lord where is charity become? that men will not giue that to their brethren, which they cast to their dogges?
+<note place="margin">Mat. 3.9.</note> O God raise vp children to <hi>Abraham,</hi> make fleshly hearts of the flinty ones, by causing the fire of that spirit, which proceedeth out of thy mouth, to kindle the coles of mans kay-colde conscience: for he that prayed,
+<note place="margin">Ier. 31.18.</note> conuert thou me and I shall bee conuerted; ment that it must bee of thy doing or neuer be done.</p>
+               <p>No maruell if the poore doe pine, when the riche repine, to depart from their crummes:
+<note place="margin">Act. 20.35.</note> the Scripture saith it is a more blessing to giue then to take: so that eyther the rich beleeueth not the Scriptures, or careth not for a blessing: if otherwise, considering how little wold
+<pb facs="tcp:177257:21"/>pleasure a poore body, and how much it would please God; I cannot see howe they could denye so bounden a duety, and so reasonable a request, for neither can the poor aske lesse then the crūmes, nor the rich giue lesse, except they will giue nothing, there is no doubt but God would be as well pleased that you giue your broken meate,
+<note place="margin">Lu. 21.3.</note> as he was with her that gaue but two poore mites. There be many that would bee accompted do<g ref="char:EOLhyphen"/>ers of good: but where may we finde a faithfull man,
+<note place="margin">Pro. 20.6.</note> saith the wise <hi>Salomen,</hi> as if he would say, many would bee said to be bountifull benefactors, and yet do no<g ref="char:EOLhyphen"/>thing that is good, but you must do so, as ye would be accompted so, or else when men haue found you, they are neuer the neere one faithfull man.
+<note place="margin">Mat. 23.23.</note> The Scribes and Pharises, pretended most godlines, (you know) when they intended exceeding wickednes and the world is full of such holy theeues. It was for our example that our Lord said,
+<note place="margin">Mat, 15.22.</note> I haue compassion on the people, for they haue been with me now three daies and haue eaten nothing, what compassion then should we take of them
+<pb facs="tcp:177257:21"/>that haue begged from doore to doore, all the daies of their life: you chasten thē with whips, but their father will chasten you with Scorpions,
+<note place="margin">Ier. 8.</note> for your vnmerci<g ref="char:EOLhyphen"/>fulnes towards them. Vsually mens cha<g ref="char:EOLhyphen"/>rity is proportionable to their faith,
+<note place="margin">Mat. 13.31.</note> for whose faith is not so great, as a graine of Mustardseede, there charity is not worth one crrumme of bread.</p>
+               <p>Christ was knowne in breaking of bread, &amp; <hi>Esay</hi> maketh it a true note,
+<note place="margin">Luk. 24.35. Esay. 58.7.</note> of a Christian to break his bread to the hun<g ref="char:EOLhyphen"/>gry. And look vpon the fig-tree, &amp; all o<g ref="char:EOLhyphen"/>ther trees saith our Sauiour,
+<note place="margin">Lu. 21.29.</note> for whē they shoote out, Sommer draweth neere: and I doubt not, but a fruitefull life to God<g ref="char:EOLhyphen"/>ward, is an infallible token, that men drawe neere to Gods kingdome, and it to them; therefore such as haue begun well must continue well also, least their latter negligence, depriue them of the blessings of their former diligence: but such as neuer giue a blessing,
+<note place="margin">Iam. 2.13.</note> let them neuer looke to receiue a blessing.</p>
+               <p>It is almost come to passe, in all the land, as it was in <hi>Diues</hi> house, that no man giueth any thing to any poore man,
+<pb facs="tcp:177257:22"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:177257:22"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:177257:23"/>and yet they that haue already too much, are most hastie to haue from euery man. How then would you haue them content that possesse nothing, seeing your selues liue mal-content, which enioy al things? <hi>Non ad erubescentiam vestram dictum est?</hi> Doe you not-blush when you consi<g ref="char:EOLhyphen"/>der this?</p>
+               <p>
+                  <hi>Pharoes</hi> leane Kine deuoured the fat?
+<note place="margin">Ga 41.4.</note> and no maruell, for the leane should feede vpon the fat, that they may be fat<g ref="char:EOLhyphen"/>ter: But when the fat eate vp the leane, there is no cause of that: Againe, sea<g ref="char:EOLhyphen"/>uen did eate seauen in <hi>Pharoes</hi> dreame, and so each one did eate one, but we see nowe, that a fewe fat ones chop vp all the wealth, and the most may goe beg, hange, or steale, or starue: and if they beg you cry a whip for them, if they steale a rope: but if they starue, you shall burne for it in the fire of hel; for you may keep most of them from begging, stealing, staruing or hanging if you will, but so deep is your foundation laide in vnmer<g ref="char:EOLhyphen"/>cifulnesse, that an earth-quake cannot mooue you.</p>
+               <p>He that gaue you a commandement
+<pb facs="tcp:177257:23"/>of mercy, gaue you also an example of mercy; for hee said not onely,
+<note place="margin">Lu. 6.36.</note> bee you mercifull, but added, as your heauenly Father is mercifull: For as God bestow<g ref="char:EOLhyphen"/>eth not one blessing vpon vs, but multi<g ref="char:EOLhyphen"/>plieth them as he thinketh meetest: so he would haue all remember to grow in goodnes, and hauing done one charita<g ref="char:EOLhyphen"/>ble deed, to be-thinke vs what goodnes wee may doe next with most proffit to our brother, and pleasure to our God: as when the Lord had said,
+<note place="margin">Lu. 3.11.</note> let him that hath two coates, giue one to him that hath none: he proceedeth to say, and let him that hath meat, do likewise. Though you loue your honey because it is sweet, yet might you giue some of it,
+<note place="margin">Pro. 20.27.</note> seeing your selues are glutted with it. <hi>Omnis virtu<g ref="char:EOLhyphen"/>tis laus in actione Consistat:</hi> Vertue is no longer praised, then it is exercised:
+<note place="margin">Iob. 30.20. Iob. 31.20.</note> other mens wordes may honor you, but your owne good deeds, must make you right honorable.</p>
+               <p>When <hi>Alexander</hi> offered fifty Tal<g ref="char:EOLhyphen"/>lents to his friend <hi>Perillus,</hi>
+                  <note place="margin">Alexander.</note> as a Dowry with his Daughter: <hi>Perillus</hi> said tenne Tallents were enough: Yea said <hi>Alex<g ref="char:EOLhyphen"/>ander</hi>
+                  <pb facs="tcp:177257:24"/>for thee to take, but not for mee to giue. We haue but a few of this minde, eyther to aske lesse then is offered, or to offer more then is asked; but so hono<g ref="char:EOLhyphen"/>rable is euery Eagle, that hee will not eate his pray,
+<note place="margin">Ecclesia. 4.8.</note> alone without company of other birds. Riches may be kept to the hurt of him that hath them. Therefore the wise venture the worst to saue the better, as he that fighteth, holdeth out his arme to defend his head;
+<note place="margin">Acts. 27.38.</note> as the Say<g ref="char:EOLhyphen"/>lers caste out their corne to saue their Ship; or as the true man parteth from his purse to keepe his life; and so the rich men should doe good heere, that they may not suffer ill heere after: My heart shall not reprooue me of my daies (said <hi>Iob</hi>) meaning that his conscience should not witnesse,
+<note place="margin">Iob. 27.6.</note> that hee had spent his time ill. I would they would once bee of that minde, who are as euill as olde; but as the Lord began his Sermon,
+<note place="margin">Luke. 4.21.</note> (in the Sinogogue of <hi>Nazareth</hi>) with this day, is this Scripture fulfilled in your eares, so may I truely say euery day, is this Scripture fulfilled before your eyes, for <hi>Quo plura hominibus contulit Dei boni<g ref="char:EOLhyphen"/>tas
+<pb facs="tcp:177257:24"/>Occecat animos altior securitas:</hi> And I appeale euen to their owne consciences, (if they haue any) whether thousandes of golde and siluer,
+<note place="margin">Psa. 119.27.</note> or Gods law bee dearer vnto the rich. All men holde it a good rule to denye nothing that wee would aske, and to require nothing that wee would deny being asked. But the vnmer<g ref="char:EOLhyphen"/>cifull, will haue no nay like <hi>Ahab,</hi> and <hi>Iessabell,</hi> nor giue any yea,
+<note place="margin">2. Kin. 20.11</note> if he should part from any thing, like <hi>Naball</hi> the churle, for all goodnes goeth backward,
+<note place="margin">2. Kin. 20.11 Esay. 51.21.</note> like the shadowe vpon <hi>Ahaz</hi> Dyall. So miserable and drunken are men, (that is) so drunken with miserablenesse are they.</p>
+               <p>If you aske why the hand is bounti<g ref="char:EOLhyphen"/>full, it is because the heart is pittifull, for that heart is colde, that setteth not the hand a worke; there is a heart that is like the clay, for it will be harder and harder: such a one was <hi>Pharoes</hi> heart: and there is a heart like waxe, which will melt vp<g ref="char:EOLhyphen"/>on the brethren,
+<note place="margin">2. Cro. 34.27</note> such a heart had King <hi>Iosia;</hi> and such hearts haue all they, who are throughly touched with a seeling of other mens wants.</p>
+               <pb facs="tcp:177257:25"/>
+               <p>And as <hi>Samuel</hi> powring oyle on <hi>Saules</hi> head,
+<note place="margin">1. Sa. 10.1.</note> said the Lord hath annointed thee: so the world giueth wealth, but God it is that blesseth you to doe good with it. O that my complaint were truely way<g ref="char:EOLhyphen"/>ed,
+<note place="margin">Iob. 6.2.</note> said <hi>Job,</hi> and it were to bee wished, that men had grace indeede to make a conscience of the poore mans case: then as <hi>Samuell</hi> said to <hi>Saule,</hi>
+                  <note place="margin">1. Sa. 20.7.</note> when thou seest these signes come vpon thee, doe as occasion shall serue: So they would bestowe bread vpon the hungry, drinke vpon the thirsty, and cloathing vppon the ragged, fitting their abilitie (like Almners) to euery good oportunity, whereas nowe the poore finde them no more then <hi>Job</hi> did his visiters,
+<note place="margin">Iob. 16.2.</note> a company of miserable comforters.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:177257:25"/>
+               <head>Text.</head>
+               <epigraph>
+                  <q>
+                     <hi>And it hapned that the begger dyed.</hi>
+                  </q>
+               </epigraph>
+               <p>THough it be heere said, that it hap<g ref="char:EOLhyphen"/>ned or chaunced, that the poore man dyed: for that death eyther com<g ref="char:EOLhyphen"/>meth sodainely, before we looke for it, or on the party that is not prouided to it: yet the originall saith, it came to passe, or so it was, that <hi>Lazarus</hi> dyed, therefore as <hi>Jsacke</hi> said to <hi>Esau</hi> his eldest sonne,
+<note place="margin">Gen. 27.2.</note> I am olde and knowe not the day of my death: so your vse of this is to remember, that death tarrieth not, and that the co<g ref="char:EOLhyphen"/>uenant of the graue is not shewed vnto you,
+<note place="margin">Eccle. 14.12.</note> that you may beare a part with <hi>Da<g ref="char:EOLhyphen"/>uid.</hi> O God my heart is ready,
+<note place="margin">Psa. 108.1.</note> my heart is ready, for as he was prepared to glori<g ref="char:EOLhyphen"/>fie God by liuing well, so should all by dying well: and the departure of such, is like the counsell that <hi>Rebecca</hi> gaue to <hi>Iacob</hi> to rid them out of danger,
+<note place="margin">Gen. 27.43.</note> least the better should be molested of the worse: and in dying, there is a kinde of necessi<g ref="char:EOLhyphen"/>ty,
+<note place="margin">1. Cor. 15.50</note> for seeing that flesh and blood can<g ref="char:EOLhyphen"/>not
+<pb facs="tcp:177257:26"/>not inherit the Kingdome of God, as it is but flesh and bloud, it must therefore haue an alteration, not of substance but of quallity, insteed of corruption, the bo<g ref="char:EOLhyphen"/>dy taking an incorruptible State, and in place of mortality, it shall put on life it selfe.</p>
+               <p>And our Sauiour said, that death was necessary euen in his man-hood: <hi>Except the wheate corne falleth into the ground and dyeth,</hi>
+                  <note place="margin">Ioh. 12.24.</note>
+                  <hi>it abideth alone:</hi> so, <hi>Cor<g ref="char:EOLhyphen"/>ruptio vnius est generatio, alterius:</hi> It pleaseth the holy Ghost by killing our imperfections, to begette in vs a perfecte state.</p>
+               <p>And seeing that God hath promised a better life to them that vse this well, the godly are glad to restore this, that they may receiue that: and in this sence it is truely said, that the houre of death, is better then the houre of birth: for it is better to the better, seeing that the liuing doe sinne and are mortall, but such as haue dyed in the fayth, haue made an ende of sinning, and are im<g ref="char:EOLhyphen"/>mortall.</p>
+               <p>And death being a debt that all must
+<pb facs="tcp:177257:26"/>pay, if it bee any degree of blessed<g ref="char:EOLhyphen"/>nesse to be out of debt, then they that are soonest dead are sooner happy. For as the bad dye to shorten impiety, and to beginne their paine so the better de<g ref="char:EOLhyphen"/>part to ende their misery, and begin feli<g ref="char:EOLhyphen"/>city. The Apostle instructing the ig<g ref="char:EOLhyphen"/>noraunce of the Thessalonians, con<g ref="char:EOLhyphen"/>serning the state of such as haue de<g ref="char:EOLhyphen"/>parted in the faith, calleth their bo<g ref="char:EOLhyphen"/>dily death a sleepe:
+<note place="margin">1. Thes. 4.13 Ioh. 11.</note> for as the peo<g ref="char:EOLhyphen"/>ple sayd of <hi>Lazarus,</hi> if hee sleepeth hee shall doe well, so what man or Woman is impatient to see theyr friendes, kindred, or acquaintaunce sleepe and rest quietly? so patientlye should all take the death one of an o<g ref="char:EOLhyphen"/>ther, as those that haue bidden the world good-night, and are gone to sleepe for a time. Beare wee then, the losse of our friendes with this resoluti<g ref="char:EOLhyphen"/>on: that as sure as the earth hath lost them, heauen haue found them, and though they haue not the company of men, yet they haue the comfort of An<g ref="char:EOLhyphen"/>gels, which is far better.</p>
+               <p>Heere their foundations were on the
+<pb facs="tcp:177257:27"/>sandes, and therfore their earthly Taber<g ref="char:EOLhyphen"/>nacles fell,
+<note place="margin">Psa 87.1.</note> but nowe their foundations are on the holy hilles, where they shall continue: they are in heauen, where no<g ref="char:EOLhyphen"/>thing can annoy them: as the other are in hell, where nothing may ioy them.</p>
+            </div>
+            <div type="part">
+               <head>Text.</head>
+               <epigraph>
+                  <q>
+                     <hi>And was carried by the Angels into</hi> Abrahams <hi>bosome,</hi>
+                  </q>
+               </epigraph>
+               <p>WHen the tempter assaulted the Lord with,
+<note place="margin">Mat. 4.</note> if thou be the Son of God, &amp;c. he alleadged also that Scripture which affirmeth the dilligence of Angels in their office,
+<note place="margin">Psa. 91.11.</note> which the Author to the Hebrues saith,
+<note place="margin">Heb. 1.14.</note> is to waite on such as shall be heyres of Saluation: the truth wher<g ref="char:EOLhyphen"/>of is confirmed, by many plaine demon<g ref="char:EOLhyphen"/>strations.
+<note place="margin">Luk. 22.43.</note> For Iesus Christ beeing in an agony, hath an Angell sent to comfort him.
+<note place="margin">1. Ki. 19.5.6. Daniell. 6.</note>
+                  <hi>Elias</hi> in distresse, is relieued by an Angell. When <hi>Daniell</hi> was in danger of the Lyons, he said that an Angell stop<g ref="char:EOLhyphen"/>ped their mouthes.
+<note place="margin">Gen. 32.1.</note> And <hi>Iacob</hi> flighted with a feare of his brother <hi>Esau,</hi> is encou<g ref="char:EOLhyphen"/>raged
+<pb facs="tcp:177257:27"/>raged by a vision of Angels: and poore <hi>Lazarus</hi> departing out of this life, the honorable Angels were his bearers in<g ref="char:EOLhyphen"/>to rich <hi>Abrahams</hi> bosome. So that the departure of the faithfull out of this life,
+<note place="margin">2. Kin. 2.11.</note> is like the passage of <hi>Elias</hi> in his glorious Chariot. Be we therefore stay<g ref="char:EOLhyphen"/>ed vpon Gods good prouidence who neuer leaueth his, <hi>Ab ouo, ad aeuum,</hi> for he spake by long experience, that sayd, I haue been young, and now am olde:
+<note place="margin">Psa. 37.25.</note> yet neuer saw I the righteous forsaken, nor his seede begging their bread. Be we also admonished to perseuer in wel doing, least our latter negligence, cut vs off from the blessing of our former diligence: and accursed conuersation, depriue vs of the assistance and societie of the blessed Angels.</p>
+               <p>Now the place whithere the poore <hi>Lazarus</hi> was carried, is the possession and fruition, of the rest of the faithfull, after this life; Which heere the Lord calleth <hi>Abrahams</hi> bosome:
+<note place="margin">Lu. 25.2.</note> and else where is named our Lords ioy, and e<g ref="char:EOLhyphen"/>ternal rest, and our Fathers house. Con<g ref="char:EOLhyphen"/>cerning which place; as the righteous
+<pb facs="tcp:177257:28"/>haue heard of it,
+<note place="margin">Apoc. 14.13 Ioh. 14.2. Psa. 48.8.</note> so haue some of them seene in it very excellent thinges, they knowe, that as the state wee ayme at, is heere incomprehensible, so it is there incomparable.
+<note place="margin">Psa. 103.5.</note> Where hee that made the soule, will satisfie it with good thinges,
+<note place="margin">Psa. 16.11.</note> for in his presence is the fulnes of ioy, and at his right hand is pleasure for euermore.</p>
+               <p>And because this place must be got<g ref="char:EOLhyphen"/>ten by belieuing: therefore it is like<g ref="char:EOLhyphen"/>ned to the bosome of <hi>Abraham</hi> the Father of the Faithfull: and the Chyl<g ref="char:EOLhyphen"/>dren of GOD doe relie them on fayth,
+<note place="margin">Ioh. 13.23.</note> as Saint <hi>Iohn</hi> did on Christes bo<g ref="char:EOLhyphen"/>some: and <hi>Lazarus</hi> on <hi>Abrahams.</hi> For they remember that their inflicted pu<g ref="char:EOLhyphen"/>nishmente, is no way comparable to thev nexpected comfort, which he pro<g ref="char:EOLhyphen"/>mised:
+<note place="margin">Ioh. 16.22.</note> who said, I will see you againe, and your heartes shall reioyce, and your ioy shall no man take from you; if any thing could dispence with death, holines could doe it. But the very elect of God though they liue like Saintes,
+<note place="margin">Psa. 82.7.</note> must dye like men.</p>
+               <p>How be it, right precious in his eyes
+<pb facs="tcp:177257:28"/>is their departure.
+<note place="margin">Psa. 116.13.</note> The wise man bring<g ref="char:EOLhyphen"/>eth in the fooles opinion concerning the death of such as poore <hi>Lazarus</hi> was.
+<note place="margin">Wisd. 5.4.</note> Wee thought him to perish (saie they) <hi>Non autem periunt a terra, sed seperantur a Populo, vt Colleganter ad patres:</hi> They are not destroyed from off the earth, but are parted from other folke, that they might bee ioyned with their Fa<g ref="char:EOLhyphen"/>thers. Where they shall not chuse but liue, as heere they may not chuse but dye. For such honour haue all Gods Saintes: and such blessednesse hath <hi>A<g ref="char:EOLhyphen"/>brahams</hi> bosome: and as that is deerest vnto vs, which we place neerest to vs, so must the fayth of <hi>Abraham,</hi>
+                  <note place="margin">Contio diui</note> bring vs to the bosome of <hi>Abraham.</hi>
+               </p>
+               <pb facs="tcp:177257:29"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177257:29"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div type="part">
+               <pb facs="tcp:177257:30"/>
+               <head>Text.</head>
+               <epigraph>
+                  <q>
+                     <hi>The rich man also dyed.</hi>
+                  </q>
+               </epigraph>
+               <p>
+                  <hi>TEndimus huc omnes, metam propera<g ref="char:EOLhyphen"/>mus ad vnam:</hi> This word, also: im<g ref="char:EOLhyphen"/>porteth the equallity of all estates, in re<g ref="char:EOLhyphen"/>spect of death:
+<note place="margin">Iob. 12.2.</note> therefore you that are men alone, and thinke there is no wise<g ref="char:EOLhyphen"/>dome without you, preuent this decree if you can, or else confesse your infir<g ref="char:EOLhyphen"/>mity. Purchase a new lease, with all the bagges that euer you filled, or else make you bagges that waxe not olde; You rich men haue wit enough to keep your money from such as sell you leases, vntill you haue gotten (confirmed vnder their handes and seales by good assu<g ref="char:EOLhyphen"/>raunce) what you would haue: but in spirituall cases, yee are as ignoraunt as Asses.</p>
+               <p>Wherefore else did the worldes childe,
+<note place="margin">Luk. 12.</note> take vpon him to warrant him<g ref="char:EOLhyphen"/>selfe a long life, when hee must dye the next night: did not the spirit of God
+<pb facs="tcp:177257:30"/>rightly reprooue him, with <hi>(Stulte Diues)</hi> thou foolish rich man? for what greater folly, then to thinke your selues to bee sure of that whereof euery man is most vncertaine?</p>
+               <p>You see that forbearaunce is none ac<g ref="char:EOLhyphen"/>quittaunce, for though the poore man dyed first, yet the rich man dyed also: and the time will come when all shall speake in the present-tence,
+<note place="margin">1 Kin. 2.2. Iob. 7.21.</note> like <hi>Dauid</hi> and <hi>Job:</hi> I goe the way of all the earth, saith the one; and beholde nowe must I sleep in the dust, saith the other: So the greatest of you shall come from his Downe bed, to his dust bed, at the last, whē death shal come,
+<note place="margin">2. Ki. 9 24.</note> like the arrow frō <hi>Jehu</hi> his bow, which strooke <hi>Ioram,</hi> that he tumbled downe in his Chariot and dyed.</p>
+               <p>Where is his promise then,
+<note place="margin">Gen. 3.</note> that soo<g ref="char:EOLhyphen"/>thed vp our progenitors, with you shall not dye. Is not this true rather? it is appointed vnto men,
+<note place="margin">Heb. 13.27</note> that they shall once dye. Which being Gods decree, it standeth vnchangeable,
+<note place="margin">Dan. 6.</note> like the lawes of the Medes and Persians, which might not be altered: or like Pilates inscripti<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:177257:31"/>on Christe his Crosse: or as <hi>Herods</hi> oath, that for his credits sake hee would not breake: or like <hi>Iephthaes</hi> vowe, which for religions sake he thought hee might not alter.
+<note place="margin">Iam. 1.17.</note> So with God is no va<g ref="char:EOLhyphen"/>riablenesse, and therefore are his coue<g ref="char:EOLhyphen"/>nants called couenantes of salt.
+<note place="margin">2. Cro. 13.5.</note> Seeing then the case standeth so with vs, that all estates are equally subiecte to deathes stroke, let none thinke it more strange to dye, (when their time is come) then to goe to bedde when night is come. Yet this is the vsuall ouer-sight of the rich, that they rather consider how much lon<g ref="char:EOLhyphen"/>ger they might haue liued: like her that said,
+<note place="margin">Ioh. 11.21.</note> Lord if thou hadst been heere, my brother had not been dead. Then howe much sooner they might haue dyed, like him that said,
+<note place="margin">Psa. 31.15</note> our time is in Gods hand, who being bound to no man, yet is bountifull to all men, that we might at<g ref="char:EOLhyphen"/>tribute it to his mercy without our me<g ref="char:EOLhyphen"/>rite.</p>
+               <p>The Lord blessing them that liue in his feare;
+<note place="margin">Psa. 128.2.</note> saith of such, they shall eate the labour of their handes, and how much more may hee plucke that, which his
+<pb facs="tcp:177257:31"/>owne hand hath planted, specially seeing life is so committed vnto vs that we on<g ref="char:EOLhyphen"/>ly vse it but God is the owner of it, who holdeth the property of life in him selfe, who is the life it selfe: and the Scripture aduertiseth by the example of giuing tribute to <hi>Caesar,</hi>
+                  <note place="margin">Mat. 22.21.</note> that the right of the lawfull Soueraigne, is an effectuall rea<g ref="char:EOLhyphen"/>son to make euery loyall subiect to giue him his duety.</p>
+               <p>And the consideration of the weake tenor, that we haue of this life, may be a forecible motiue, to perswade vs to vse it well, while we haue it; for he that liu<g ref="char:EOLhyphen"/>eth and not by righteousnes shall dye,
+<note place="margin">Iob. 4.21.</note> &amp; not in goodnes, saith <hi>Iob.</hi>
+               </p>
+               <p>O then, by a good conuersation furnish your life against death shall fi<g ref="char:EOLhyphen"/>nish it. At other times wee teach you to liue well, but vppon these occasions we admonish you to dye well. Wee all doe passe our dayes, as <hi>Peter</hi> and the other Disciple which went to the Se<g ref="char:EOLhyphen"/>pulchre.
+<note place="margin">Ioh. 20.6.</note> For some goe both to the Graue and into the Graue; others goe to the Graue onely, but not in<g ref="char:EOLhyphen"/>to it.</p>
+               <pb facs="tcp:177257:32"/>
+               <p>And as when you accompany the dead corpes to be buried, it goeth before and you come after: So may you be aduer<g ref="char:EOLhyphen"/>tised that you shall follow in dying, as well as in going: as when death had done with the poore man, it singled out the rich man, for the rich man also dyed, saith the Euangelist.</p>
+               <p>Thus when you heare of one that is dead, you must thinke of it as a summons to your owne. And for such as liue well, it is as profitable for themselues that they shall dye heereafter, as it is for the poore and others that they liue heere, and that doe they know well enough. Where<g ref="char:EOLhyphen"/>fore in the spirits of iust men, they say: <hi>Cupio dissolui, et esse cum Christo,</hi> not <hi>Cu<g ref="char:EOLhyphen"/>pio mori;</hi>
+                  <note place="margin">Rom. 6.23.</note> I desire to dye: for death is the reward of Sinne, but to be dissolued, for the soule is in the body, as a birde is in the cage,
+<note place="margin">Psa. 11.1.</note> seeking to bee at liberty, and being let out, flyeth vnto the hill: or as <hi>Joseph</hi> in the prison house desiring in<g ref="char:EOLhyphen"/>largement.
+<note place="margin">Gen. 40.14.</note> O bring my soule out of prison,
+<note place="margin">Psa. 142.9.</note> saith the Prophet. And a true dis<g ref="char:EOLhyphen"/>tinction of the liues of the better from the worse, while they liue heere: is, that
+<pb facs="tcp:177257:32"/>the one may be said to suffer this life, the other to desire it: for the one cryeth like the Saints; come Lord Iesu,
+<note place="margin">Apoc. 22.</note> come quick<g ref="char:EOLhyphen"/>ly. The other like the Deuils, what haue wee to doe with thee the Sonne of the liuing God? and this is an infallible truth?
+<note place="margin">Luk. 8.28.</note> that a mans willingnesse to dye, doth (for the most part) argue his preparednesse vnto God.</p>
+               <p>Now a common case, is a common comfort, therefore seeing that poore &amp; rich and all must dye, that is no iniury to any, which is the equall condition of all. And in that, that the poore man was first taken: and then the rich man, it noteth that God respecteth not persons, either in life or in death, but would teach vs to take our turne when our time is come: and so much the rather for that death is the common Ferry man of vs all. It was an effecte of Gods vnsearchable wise<g ref="char:EOLhyphen"/>dome, that as hee did seale vp the cer<g ref="char:EOLhyphen"/>tainty of our death:
+<note place="margin">Iob. 3.23.</note> so he concealed the time of our dying, thereby admonish<g ref="char:EOLhyphen"/>ing vs, to respect death as a decree most certaine, and to expect it as a thing most vncertaine, that both being well regard<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:177257:33"/>might prepare vs to a readinesse. For though we know that all shall dye: yet we see that all haue not equall time, for one dyeth in the wombe,
+<note place="margin">Psa. 58.8.</note> euen that vn<g ref="char:EOLhyphen"/>timely fruite of a woman: an other at his first step into the world, taking his welcome and fare well both at once: o<g ref="char:EOLhyphen"/>thers after a little while, whose cradle figureth their graue; and others in theyr olde age, so that all are partly borne to bee buried. For what man liueth and shall not see death,
+<note place="margin">Psa. 89.48. Ecclstes. 3.1.</note> saith the Prophet? The Preacher also telleth vs, that the a<g ref="char:EOLhyphen"/>ges of this life, are as the seasons of the yeere, for there must be a time to sow in, and a time to grow in, and then com<g ref="char:EOLhyphen"/>meth haruest the time to mow in: But in certaine climates of the world, the corne is sooner reaped, because it is sooner ripe.</p>
+               <p>And so betwixt sooner and later, all of vs are gathered vp in the end, then see<g ref="char:EOLhyphen"/>ing that death is a guest so well knowne to all men, and his message so vnauoyde<g ref="char:EOLhyphen"/>able, that he still returneth, <hi>Corpus cum causa:</hi> Why should hee not bee as wel<g ref="char:EOLhyphen"/>come to vs, as he is well knowne of vs,
+<pb facs="tcp:177257:33"/>and if it pleaseth God to translate thee before others, thy duety is to thanke him before others: if after others thinke that he giueth thee space, and pray him also to giue thee grace vnto repentance.</p>
+            </div>
+            <div type="part">
+               <head>Text.</head>
+               <epigraph>
+                  <q>
+                     <hi>And was buried.</hi>
+                  </q>
+               </epigraph>
+               <p>THey that are acquainttd with Hi<g ref="char:EOLhyphen"/>stories doe know the vnciuill dea<g ref="char:EOLhyphen"/>ling of sundry sauage nations with their dead: for some cast them out to be eaten of the wilde beastes: some hang them vp to be deuoured of the Foules of the ayre; others calling together their kin<g ref="char:EOLhyphen"/>dred, doe eate them as a banquet; some being more ciuill do imbalme them, &amp; so preserue thē, &amp; set thē a side in some secret place. But Christians doe moste duetifully and comely returne the earth his owne, after that God hath taken the diuine part of man.
+<note place="margin">Act. 12.7.</note> And as wee call buriall the last Christian duety that we owe eyther to other: So we esteeme the
+<pb facs="tcp:177257:34"/>denyall of Christian buriall, the foulest disgrace that can bee offered vs in this world, and to shew that men holde it in prize, we see many times that they whose life was very odious, haue their Funerals exceeding sumptuous. But wee may offend in this businesse of buriall twoo waies.
+<note place="margin">Mat. 28.29.</note> First in being ouer-curious (like the Pharises) in tricking of Sepulchers, and as they whose burial hath cost more after their death, then they were worth euen in their wealthiest state being a<g ref="char:EOLhyphen"/>liue (if euery bird had receiued backe a<g ref="char:EOLhyphen"/>gaine his owne Feather) so much more costly then comely is many a mans vani<g ref="char:EOLhyphen"/>tie: Secondly we may offend in being too carelesse of comely buriall, as they who say: if I am dead, cast me on a dung<g ref="char:EOLhyphen"/>hill, if you will. I say to such, that if they want Christian buriall, they want Chri<g ref="char:EOLhyphen"/>stian duety, and God hath laide it as a curse vppon the vngodly heretofore,
+<note place="margin">Ier. 22.19.</note> as on <hi>Iehoakim</hi> by name, and diuerse o<g ref="char:EOLhyphen"/>ther.</p>
+               <p>And the Psalmist bringeth in <hi>Ierusa<g ref="char:EOLhyphen"/>lem,</hi> thus lamenting that curse of God vpon them among the rest:
+<note place="margin">Psa. 79.2.</note> the dead bo<g ref="char:EOLhyphen"/>dies
+<pb facs="tcp:177257:34"/>of thy seruants, haue the enimies giuē to the beastes of the land: and the flesh of thy Saintes vnto the Foules of the ayre. I knowe it is no matter of saluation ey<g ref="char:EOLhyphen"/>ther to haue or to want Christian burial:
+<note place="margin">Psa. 24.1.</note> For the earth is the Lordes and all that therein is: and all that the world can doe is but to hurt the body,
+<note place="margin">Luk. 12.4.</note> and then they haue lost their sting.</p>
+               <p>So that although wee cannot haue christian burial: Yet <hi>tantundem est via ad caelos. Caeloque tegitur, qui non habet vrnā.</hi> But I would not haue any man to dispise buriall Diogines-like, who willed his friendes to laye him in the wide fieldes when he was dead: but when they re<g ref="char:EOLhyphen"/>plyed, that the beastes and Foules would feede on him, hee wished them to lay his staffe by him, in mocking manner. God himselfe hath a care of our departure,
+<note place="margin">Psa. 11<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.15.</note> for right deare in the sight of the Lord, is the death of his Saints, and we may not be carelesse of what God is most carefull. It hath good vse (out of doubt) that <hi>Jo<g ref="char:EOLhyphen"/>seph</hi> of Aramathia had a Toombe ready against his death:
+<note place="margin">Lu. 23.53.</note> that <hi>Abraham</hi> pur<g ref="char:EOLhyphen"/>chased a fielde properly for buriall:
+<note place="margin">Gen. 23.</note> and
+<pb facs="tcp:177257:35"/>that <hi>Iacob</hi> caused his eldest Sonne to sweare that he would carry him out of Egipt,
+<note place="margin">Gen. 47.31.</note> and bury him in Canaan, for these Scriptures (as the rest) are written for our immitation. And when Christians ac<g ref="char:EOLhyphen"/>company their like to their long home, it hath a goodly grace: or (as <hi>Job</hi> saith) when wee deliuer a body to his Mother againe. But when an vngodly man is accompanied to his graue, it is like, as when a company of true men, followe the Cart that carrieth malefactors to Ti<g ref="char:EOLhyphen"/>burne; or as when a flocke of Foules do passe by a dead Goshauke; or when the Dog-killer commeth by a dead Fox, he slippeth off his coate, but casteth away his Carkasse: who reioyceth not when wickednesse is going to the graue? The Executors are nimble fingred to tell his coyne, and share his bagges: the wormes bestirre them, for their feasting time commeth neere. The Deuill attendes diligently to cease vpon his soule in fee-simple; and therefore it followeth in the Text.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:177257:35"/>
+               <head>Text.</head>
+               <epigraph>
+                  <q>
+                     <hi>And being in hell in torments.</hi>
+                  </q>
+               </epigraph>
+               <p>
+                  <hi>Est locus hic partes vbi si via findit in ambas:</hi> The Scripture you see ac<g ref="char:EOLhyphen"/>knowledgeth but twoo waies: eyther men goe to heauens ioy with <hi>Lazarus,</hi> or els to tormentes with this damned Ghost, and that immediatly. So that if there bee a purgatory, the Pope hath purchased it of late, from some man, like himselfe, that he may make a gaine of it. As <hi>Simon Magus</hi> would haue bought that power of the holy Ghost by whole sale,
+<note place="margin">Act. 8.18.19.</note> that hee might haue solde it againe by retale.</p>
+               <p>
+                  <hi>And being in hell tormentes.</hi> The holy Ghost speaketh in the plurall number of the paines of the damned; As <hi>Moses</hi> saith, that God rained downe fire and brimstone from heauen vpon <hi>Sodom,</hi>
+                  <note place="margin">Gen. 19.24.</note> for God being a iust measurer, sendeth much punishment, vppon much sinne. This wretch was rich in sinne,
+<note place="margin">Gen. 18.</note> and therefore he hath a plurallity of punishment. For
+<pb facs="tcp:177257:36"/>shall not the Iudge of all the world doe according to right?
+<note place="margin">Gen. 18.</note> Yes, and therefore he that loueth to doe nothing but sinne, hath nothing but punishment:
+<note place="margin">Psa. 99.16.</note> they that loue not blessing, it is farre from them: and such as loue cursing, it hasteth to them: such as torment others heere, tormentes remayne for them heere<g ref="char:EOLhyphen"/>after.</p>
+               <p>When God threatneth destruction to the damned, he doth not say simply <hi>mo<g ref="char:EOLhyphen"/>riemini,</hi>
+                  <note place="margin">Gen. 2.17.</note> ye shall dye, but <hi>mortem morie<g ref="char:EOLhyphen"/>mini,</hi> you shall dye the death, which the best translation turneth thus: <hi>moriendo moriemini,</hi> in dying ye shall dye: that is, you shall be euer in dying but neuer be dead: as the bushe that <hi>Moses</hi> sawe was burning,
+<note place="margin">Exo. 3.2.</note> but not consumed. Where it would bee great mercy to kill quicklie. There be in a great house, vessels of ho<g ref="char:EOLhyphen"/>nor, and vessels of dishonor. The people are called vessell of being full or emptie. As the mighty vessels that <hi>Salomon</hi> made for the Temple was called a Sea,
+<note place="margin">1. Ki. 7.23.</note> for the greatnes of the continent: but vessels of honor are so called, of being replenished with goodnes, and vessels of dishonor,
+<pb facs="tcp:177257:36"/>are such vassals as <hi>Pharo,</hi>
+                  <note place="margin">Exo. 9.16.</note> of whom God said for this cause, haue I kept thee: meaning partly that God might get him selfe honor on him, in his life, and at the last bring him to a dishonorable death. <hi>Grauia tendunt deorsum.</hi> Heauy things do presse downe, and it is not vnlike that in this sence the Hebrues (calling a rich man a heauy man) doe,
+<note place="margin">Heb. 12.1.</note> will Christians to cast away euery thing that presseth downe; meaning such thinges as hinder the good course of a Christian life, you see how hardly this burden is cast off by the young man,
+<note place="margin">Luk. 18.</note> who chose to keepe his present possession on earth, rather then to accept of that which the Lord promi<g ref="char:EOLhyphen"/>sed in heauen. How like wealth is, to the bunch on the Cammels backe, keep<g ref="char:EOLhyphen"/>ing men from entring the straite gate, and much more from creeping through the needles eye: and you see howe low it pressed this man of great possessions, euen to the bottome of destruction.</p>
+               <p>The Deuill was of opinion that a man will giue all that hee hath,
+<note place="margin">Iob. 2.4.</note> to saue his life heere: How much more then should he do it to saue his soule. So that by the ve<g ref="char:EOLhyphen"/>ry
+<pb facs="tcp:177257:37"/>Deuils argument, a rich man had ra<g ref="char:EOLhyphen"/>ther saue his life heere, then his soule should liue heereafter. I would to God they that desire to liue long, would ende<g ref="char:EOLhyphen"/>uour to liue well:
+<note place="margin">Gen. 47.9.</note> for it is a good life that must bring a long life: <hi>Iacob</hi> said his daies were few and euill, not ill because they were few, but fewe because they are euill. And <hi>Paul</hi> in saying to the Corin<g ref="char:EOLhyphen"/>thians;
+<note place="margin">1. Cor. 11.30</note>
+                  <hi>For this cause many are sicke, and weake among you, and many sleep;</hi> had re<g ref="char:EOLhyphen"/>lation to their prophane and vngodly life which then they led. But you see how dangerous it is for men to neglect times and occasions of performing the dueties of a godly life. There is also a note for all men to take heede what they doe, seeing it is iust with God, to send men one thing for another, if they doe one thing for an other,</p>
+               <p>The Diuines haue a Prouerb of <hi>Noas</hi> wine, <hi>Vinum non pepercit suo inuentori:</hi> which should make posterities proui<g ref="char:EOLhyphen"/>dent, in the like cases, and seeing it is e<g ref="char:EOLhyphen"/>uident that many men are as drunken with wealth,
+<note place="margin">Gen. 9.21.</note> as <hi>Noah</hi> was with wine: Schollers may also say of wealth, <hi>diuitiae
+<pb facs="tcp:177257:37"/>non miserentur sui Magistri. Noah</hi> was but deunken with his owne wine, but <hi>Diues</hi> was damned with his own wealth. Then a rich mans winding sheete, may couer his shape, but cannot hide his sin, and he may giue as many gownes as he can at his death, but the holy Ghost affoordeth his life led, neuer a cloake. Lord; who wold thinke that they which are greatest heere on earth, may misse soonest of the Kingdom in heauen? Here is no reason alleadged directly, why this party went to hell; but as Diuines doe, so all men may safely gather, that it was for abusing so manifolde blessings of the bountifull God.
+<note place="margin">Gen. 40.19.</note> So that as <hi>Joseph</hi> tolde <hi>Pharoes</hi> Baker his dreame, that the birds did eate the bread out off the basket which hee carried on his head, was a Prognostication, that foules should feede on his carkasse, when <hi>Pharoe</hi> had caused him to bee hanged. So the abusing of Gods blessings heere, is a figure of your partaking with <hi>Diues</hi> in his punishments as you haue done in his sinnes. You read in the Gospell, that the King passing sen<g ref="char:EOLhyphen"/>tence, vpon that vnworthy guest at the
+<pb facs="tcp:177257:38"/>feast which hee made at the marriage of his Sonne,
+<note place="margin">Mat. 22.13.</note> said take him, for he was none of that company, and therefore to be ta<g ref="char:EOLhyphen"/>ken from among them, and binde him hand and feete, for those hands that ne<g ref="char:EOLhyphen"/>uer did good, must be bound to suffer e<g ref="char:EOLhyphen"/>uil: &amp; those feete that walke not in any good way, must suffer the reward of go<g ref="char:EOLhyphen"/>ing a stray. Binde hand &amp; foote too, that he may haue no ease by turning or moo<g ref="char:EOLhyphen"/>uing, but lye still, and suffer still, and cast him,
+<note place="margin">2. Ki. 9.33.</note> as <hi>Jezabel</hi> was cast out at a window. For God casteth off all care off such, as cast not their care on him, and they are right cast-awaies, into vtter darknesse, where hee must not remaine for three daies, (like <hi>Pharoe</hi> in that palpable mist of Egipt) but alwaies.
+<note place="margin">Exo. 10.22. Psal. 16.11.</note> Now in Gods pre<g ref="char:EOLhyphen"/>sence is the fulnes of ioy, and at his right hand pleasure for euer: then, to bee de<g ref="char:EOLhyphen"/>priued of his presence, is to be placed in sorrow, and to bee sent from his right hand of pleasure, is to bee possessed of endles paine.
+<note place="margin">Psa 9.17.</note> Thus shall the wicked be turned into hell, and all the people that forget God: Be admonished then (you rich men) by this burnt childe, to dread
+<pb facs="tcp:177257:38"/>the fire,
+<note place="margin">Pro. 12.12.</note> for the desire of the vngodly is a net of euils, saith the wise King, that is the desire of vngodly men is to ketch, for it is a net, and to ketch by euill, that is by euill meanes, yea it is a net to ketch himselfe, as he hath caught others.
+<note place="margin">1. Ki. 20.21. Num. 22.22.</note>
+                  <hi>Ahab</hi> is caught by <hi>Elias; Balaam</hi> by the Angel; <hi>Pharoe</hi> in the Sea; <hi>Diues</hi> in hell: and e<g ref="char:EOLhyphen"/>uery one is ouertaken by his owne de<g ref="char:EOLhyphen"/>uise, like <hi>Absalon</hi> with his owne hayre;
+<note place="margin">Exo. 14.</note> and <hi>Hammon</hi> with his owne gallowes;
+<note place="margin">2. Sam. 18.9.</note> How is it then, that the warned are so few, seeing your warnings are so many?
+<note place="margin">Est. 7.10.</note> is it because ye haue not heard of an holie Ghost,
+<note place="margin">Act. 19.2.</note> or for that ye haue not receiued of his grace? Loe, you be the men that take not God for your strength,
+<note place="margin">Psa. 52.7.</note> but trust in the multitude of your riches.</p>
+               <p>You must all meete one day,
+<note place="margin">Psa. 15.4.</note> like <hi>Sam<g ref="char:EOLhyphen"/>sons</hi> Foxes, with fire-brands among you, for that is the place of them that knowe not God;
+<note place="margin">Psa. 41.18.</note> Ye Dolphins that play moste when a tempest is neerest;
+<note place="margin">Psa. 16.30.</note> Ye Philistines that are most merry when the house is ready to fall on you;
+<note place="margin">Psa. 41.18.</note> Ye sonnes of <hi>Leui<g ref="char:EOLhyphen"/>athan,</hi> that care no more for a sword sha<g ref="char:EOLhyphen"/>ken at you, then for a strawe:
+<note place="margin">Luk. 12.</note> Ye sensles
+<pb facs="tcp:177257:39"/>churles that feast most merrily, whē your soules must packe presently:
+<note place="margin">Rom. 6.23.</note> you forgette that the iudgementes of God are accor<g ref="char:EOLhyphen"/>ding to right. As he was <hi>Abrahams</hi> re<g ref="char:EOLhyphen"/>ward,
+<note place="margin">Gen. 25. Deu. 10.</note> so is hee euery sinners reuenger: many are your Eclipses here (you know) but heereafter your light shall be cleane put out,
+<note place="margin">Iob. 18.6.</note> and your selues turned into a smoke, like <hi>Sodom:</hi> you that haue caused whole spitle houses of pouerty,
+<note place="margin">Gen. 19.28.</note> you must suffer a hell of misery, where you must be deathes pray,
+<note place="margin">Psa. 49.14.</note> and hels perpetuall priso<g ref="char:EOLhyphen"/>ners, where the plagues of God haue no end: Where that first borne of death, the hearts sicknes shall be seconded with the King of feare,
+<note place="margin">Iob. 18.1<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.14</note> euen most dreadfull vgli<g ref="char:EOLhyphen"/>nes: Two attendants which neuer leaue the damned in hell, where hee remaines as a tree plucked vp by the roote,
+<note place="margin">Iob. 19.10.</note> of whome there is no hope of any recoue<g ref="char:EOLhyphen"/>ry.
+<note place="margin">Iob. 3.1.</note> If <hi>Job</hi> cursed his day, for a temporall affliction, that God sent him for a triall: O what will they doe, who in body and soule shall be taken with eternall and in<g ref="char:EOLhyphen"/>tollerable tormentes? God giue them grace to weigh this well, who in this life haue al pleasures, while <hi>Lazers</hi> are in all
+<pb facs="tcp:177257:39"/>paine. Who feast, while others fast: who laugh merrily, while the poore weepe heauily: who are cloathed like the Lil<g ref="char:EOLhyphen"/>lies, while others would bee glad of vile garmentes: who swim in the top of all prosperity, while <hi>Lazarus</hi> lyeth in the bottome of misery.
+<note place="margin">Psa. 50.22.</note> Consider this you that forget God, least he pluck you away sodainely, shewing you no mercy, as you haue helped none in their misery: if yee will not be Catechized by kinde instruc<g ref="char:EOLhyphen"/>tiō, it followeth y<seg rend="sup">t</seg> God will cut you short with a swift destruction. Therfore while you are young, liue well, that when you are olde, ye may dye well. If ye liue well heere, ye shall liue better heereafter: If ye liue ill now, ye shall liue worse an o<g ref="char:EOLhyphen"/>ther time, for there is a better life, and there is a worse life: else what prehemi<g ref="char:EOLhyphen"/>nence had the better aboue the worse, seeing both shall as surely dye, as they now liue. But as the voice said,
+<note place="margin">Apo. 14.13.</note> blessed are the dead, that dye in the Lord, for they rest from their labours: So cursed are they that dye, being as well of this world, as they are in this world, because they goe to their torments.
+<note place="margin">2. Kin. 2.11.</note>
+                  <hi>Elias</hi> going
+<pb facs="tcp:177257:40"/>from the earth, was carried vp to hea<g ref="char:EOLhyphen"/>uen:
+<note place="margin">Gen. 5, 24.</note> and <hi>Diues</hi> going out of it, was turn<g ref="char:EOLhyphen"/>ed into hell. God tooke away <hi>Henoch</hi> saith <hi>Moses,</hi> but the Deuill tooke away <hi>Diues</hi> saith our Sauiour Christ. And God knoweth how many of them, that weare silken garments heere, come to hels tor<g ref="char:EOLhyphen"/>mentes heereafter: and men haue iust cause, to weare blacke garmentes for them, that goe to euerlasting blackenes, not as though others mourning can any way help them, but because their owne misdemeanor, hath so irrecouerably hurt them.</p>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
